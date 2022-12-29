@@ -167,7 +167,6 @@ doc_id,sentence_id,sentence_text
 11,11_12,Hal ini ditandai dengan serangan asma yang mereda dan kekambuhannya yang bisa diminimalisasi. 
 11,11_13,"Akan tetapi, jika tetap saja asma Anda tidak membaik, tidak ada salahnya Anda kembali periksa ke dokter atau  dokter paru  agar dievaluasi apa penyebabnya, lantas ditangani dengan tepat. "
 11,11_14,Semoga membantu ya.
-11,11_15,.
 12,12_0,Hai. 
 12,12_1,"Keluhan yang dialami oleh suami Anda dapat diakibatkan oleh berbagai kemungkinan penyebab seperti:   bronkhitis, Tuberkulosis / TBC,   Pleuritis  (radang selaput paru),   Penyakit asam lambung,   Gangguan jantung ( gagal jantung,  serangan jantung )   dan sebagainya. "
 12,12_2,"Untuk memastikan penyebabnya diperlukan pemeriksaan lebih lanjut oleh dokter , yaitu meliputi pemeriksaan fisik untuk memeriksa kondisi paru - paru dan jantung, serta pemeriksaan penunjang seperti tes darah, X - Ray, EKG dan sebagainya. "
@@ -703,17 +702,16 @@ doc_id,sentence_id,sentence_text
 46,46_20,Tidak perlu meminum apapun untuk kembali menstruasi. 
 46,46_21,"Demikian informasi yang dapat disampaikan, semoga bermanfaat."
 47,47_0,Halo Nurul.
-47,47_1,.....
-47,47_2,Terima kasih  atas pertanyaan Anda. 
-47,47_3,"Kondisi yang Anda alami dengan keluhan utama berupa rasa sakit pada perut bagian tengah bawah, memang masih dapat disebabkan oleh karena gangguan kesehatan yang terkait organ lambung. "
-47,47_4,"Berikut ini beberapa penyakit yang dapat menyerang organ lambung, diantaranya adalah: Gastritis === Peradangan pada dinding lambung bagian dalam, penyakit asam lambung / GERD, ulkus lambung === luka yang terjadi pada dinding lambung bagian dalam, kanker lambung. "
-47,47_5,"Akan tetapi selain oleh karena penyakit yang telah disebutkan di atas, kondisi ini juga dapat disebabkan oleh: Peradangan pada pankreas, gangguan kesehatan pada organ empedu, sindrom iritasi usus. "
-47,47_6,"Jika rasa sakit terjadi, maka cobalah atasi keadaan ini dengan cara mengonsumsi obat khusus gangguan lambung seperti antasida cair, yang dapat dibeli dengan bebas di apotik, minumlah sesuai dengan aturan pakai yang tertera di kemasan. "
-47,47_7,"Selain itu kami sangat menyarankan untuk : menghindari makanan yang asam/ pedas / berminyak / berlemak / digoreng / bersantan, makan makanan yang sehat dan bergizi tepat waktu, minum air putih minimal 2 Liter per hari, stop merokok dan jangan minum minuman keras, hindari minum kopi, kelola psikologis. "
-47,47_8,"Apabila setelah Anda melakukan cara - cara di atas, kondisi sakit yang Anda alami masih saja dirasakan atau semakin memburuk, maka kami sangat menyarankan untuk segera menemui dokter, dan mendiskusikan masalah ini, agar Anda dapat dilakukan serangkain pemeriksaan lebih lanjut secara langsung, dan akhirnya penanganan tepat dapat segera diberikan sesuai dengan penyebab pasti nantinya diketahui. "
-47,47_9,Klik artikel di bawah ini yang sesuai dengan pertanyaan Anda : GASTRITIS. 
-47,47_10,"Demikian penjelasan yang dapat kami sampaikan, semoga bermanfaat. "
-47,47_11,"Salam, Dr. Jati."
+47,47_1,Terima kasih  atas pertanyaan Anda. 
+47,47_2,"Kondisi yang Anda alami dengan keluhan utama berupa rasa sakit pada perut bagian tengah bawah, memang masih dapat disebabkan oleh karena gangguan kesehatan yang terkait organ lambung. "
+47,47_3,"Berikut ini beberapa penyakit yang dapat menyerang organ lambung, diantaranya adalah: Gastritis === Peradangan pada dinding lambung bagian dalam, penyakit asam lambung / GERD, ulkus lambung === luka yang terjadi pada dinding lambung bagian dalam, kanker lambung. "
+47,47_4,"Akan tetapi selain oleh karena penyakit yang telah disebutkan di atas, kondisi ini juga dapat disebabkan oleh: Peradangan pada pankreas, gangguan kesehatan pada organ empedu, sindrom iritasi usus. "
+47,47_5,"Jika rasa sakit terjadi, maka cobalah atasi keadaan ini dengan cara mengonsumsi obat khusus gangguan lambung seperti antasida cair, yang dapat dibeli dengan bebas di apotik, minumlah sesuai dengan aturan pakai yang tertera di kemasan. "
+47,47_6,"Selain itu kami sangat menyarankan untuk : menghindari makanan yang asam/ pedas / berminyak / berlemak / digoreng / bersantan, makan makanan yang sehat dan bergizi tepat waktu, minum air putih minimal 2 Liter per hari, stop merokok dan jangan minum minuman keras, hindari minum kopi, kelola psikologis. "
+47,47_7,"Apabila setelah Anda melakukan cara - cara di atas, kondisi sakit yang Anda alami masih saja dirasakan atau semakin memburuk, maka kami sangat menyarankan untuk segera menemui dokter, dan mendiskusikan masalah ini, agar Anda dapat dilakukan serangkain pemeriksaan lebih lanjut secara langsung, dan akhirnya penanganan tepat dapat segera diberikan sesuai dengan penyebab pasti nantinya diketahui. "
+47,47_8,Klik artikel di bawah ini yang sesuai dengan pertanyaan Anda : GASTRITIS. 
+47,47_9,"Demikian penjelasan yang dapat kami sampaikan, semoga bermanfaat. "
+47,47_10,"Salam, Dr. Jati."
 48,48_0,Hai. 
 48,48_1,Kehamilan dapat terjadi ketika bertemunya sel sperma dengan sel telur yang matang di dalam rahim. 
 48,48_2,"Jika usia kehamilan anda sudah memasuki usia 7 minggu, maka perdarahan yang semakin banyak dari jalan lahir yang ditakutkan ialah terjadinya suatu keguguran / abortus. "
@@ -4459,22 +4457,21 @@ doc_id,sentence_id,sentence_text
 274,274_6,"Selain pemberian obat, penting untuk menjaga kebersihan dengan rutin mengganti pakaian dan pakaian dalam setiap hari setelah beraktifitas, membersihkan kemaluan setiap kali selesai buang air dari arah depan kebelakang untuk menghindari penyebaran bakteri dari anus ke vagina, buang air kecil secara teratur, hindari penggunaan celana yang ketat dan konsumsi air mineral untuk memenuhi kebutuhan cairan tubuh. "
 274,274_7,"Semoga bermanfaat, dr."
 275,275_0,Halo rama.
-275,275_1,....
-275,275_2,Terima kasih atas pertanyaan Anda. 
-275,275_3,Perlu Anda ketahui bahwa terdapat 2 Rute pemberian obat yang utama yaitu :1. 
-275,275_4,Enteral :   Oral   Sublingual   Rektal. 
-275,275_5,2. 
-275,275_6,"Parenteral   Suntikan intravena,   Suntikan Intramuskular,   Suntikan subkutan. "
-275,275_7,"Apabila pemberian obat tidak dapat dilakukan secara oral, kemungkinan Dokter Akan memberikan alternatif lain yaitu ke arah pemberian secara parenteral. "
-275,275_8,Cobalah tips berikut ini :   Ciptakanlah suasana yang nyaman dan santai untuk anak Anda. 
-275,275_9,Hindari penggunaan suara yang keras saat memberikan obat. 
-275,275_10,Posisikan bayi dengan kepala lebih tinggi agar obat tidak masuk ke paru - paru. 
-275,275_11,"Pangku anak Anda, lalu atur agar posisinya setengah duduk. "
-275,275_12,"Gunakan pipet, letakkan di sudut mulut bayi, lalu secara perlahan - lahan keluarkan obat. "
-275,275_13,"Letakkan ujung pipet di bibir bawah anak, biarkan obat mengalir ke dalam mulut  dan lain - lain. "
-275,275_14,"Jika tips di atas tetap tidak berhasil, segera kunjungi Dokter agar dilakukan penanganan yang tepat. "
-275,275_15,"Demikian penjelasan yang dapat kami sampaikan, semoga bermanfaat. "
-275,275_16,"Salam, Dr."
+275,275_1,Terima kasih atas pertanyaan Anda. 
+275,275_2,Perlu Anda ketahui bahwa terdapat 2 Rute pemberian obat yang utama yaitu :1. 
+275,275_3,Enteral :   Oral   Sublingual   Rektal. 
+275,275_4,2. 
+275,275_5,"Parenteral   Suntikan intravena,   Suntikan Intramuskular,   Suntikan subkutan. "
+275,275_6,"Apabila pemberian obat tidak dapat dilakukan secara oral, kemungkinan Dokter Akan memberikan alternatif lain yaitu ke arah pemberian secara parenteral. "
+275,275_7,Cobalah tips berikut ini :   Ciptakanlah suasana yang nyaman dan santai untuk anak Anda. 
+275,275_8,Hindari penggunaan suara yang keras saat memberikan obat. 
+275,275_9,Posisikan bayi dengan kepala lebih tinggi agar obat tidak masuk ke paru - paru. 
+275,275_10,"Pangku anak Anda, lalu atur agar posisinya setengah duduk. "
+275,275_11,"Gunakan pipet, letakkan di sudut mulut bayi, lalu secara perlahan - lahan keluarkan obat. "
+275,275_12,"Letakkan ujung pipet di bibir bawah anak, biarkan obat mengalir ke dalam mulut  dan lain - lain. "
+275,275_13,"Jika tips di atas tetap tidak berhasil, segera kunjungi Dokter agar dilakukan penanganan yang tepat. "
+275,275_14,"Demikian penjelasan yang dapat kami sampaikan, semoga bermanfaat. "
+275,275_15,"Salam, Dr."
 276,276_0,"wa'alaikumusalam wr wb, Terima kasih atas pertanyaanya. "
 276,276_1,Batuk disertai sesak nafas dapat disebabkan oleh beberapa hal yakni: 
 276,276_2,"1. Asma Gejalanya berupa batuk, sesak nafas, mengi, tidak ada demam, keluhan muncul sejak kecil dan terus berulang. "
@@ -4539,25 +4536,24 @@ doc_id,sentence_id,sentence_text
 277,277_43,"Demikian jawaban dari saya, semoga bermanfaat. "
 277,277_44,"Salam, dr."
 278,278_0,Halo Mayang.
-278,278_1,....
-278,278_2,Terima kasih Atas pertanyaan Anda. 
-278,278_3,Apakah Anda sudah melakukan tes kehamilan ( testpack ) sebelumnya ?
-278,278_4,??? Tanda - tanda kehamilan yang perlu Anda ketahui diantaranya sebagai berikut ini :   Hasil tes kehamilan ( Testpack ) positif. 
-278,278_5,"Payudara terlihat lebih sensitif, padat, dan lebih kencang. "
-278,278_6,Lebih sering Buang Air Kecil. 
-278,278_7,Merasa sangat lelah. 
-278,278_8,Mual dan muntah. 
-278,278_9,Hilangnya nafsu makan. 
-278,278_10,Konstipasi. 
-278,278_11,Suasana hati yang berubah. 
-278,278_12,Pusing. 
-278,278_13,Terlambat datang bulan   dan lain - lain. 
-278,278_14,"Untuk membedakannya apakah ini suatu gejala yang timbul akibat awal munculnya menstruasi ataukah suatu tanda kehamilan, maka kami sangat menyarankan kepada Anda untuk melakukan tes kehamilan ( testpack ) terlebih dahulu. "
-278,278_15,"Apabila hasil negatif, maka Anda dapat mengulanginya seminggu kemudian. "
-278,278_16,"Apabila Anda khawatir berlebih, konsultasikan hal ini dengan Dokter Spesialis Kebidanan dan Kandungan agar segala sesuatunya terang dan jelas. "
-278,278_17,Klik artikel di bawah ini yang sesuai dengan pertanyaan Anda : TANDA KEHAMILAN MENSTRUASI TEST PACK. 
-278,278_18,"Demikian penjelasan yang dapat kami sampaikan, semoga bermanfaat. "
-278,278_19,"Salam, Dr."
+278,278_1,Terima kasih Atas pertanyaan Anda. 
+278,278_2,Apakah Anda sudah melakukan tes kehamilan ( testpack ) sebelumnya ?
+278,278_3,??? Tanda - tanda kehamilan yang perlu Anda ketahui diantaranya sebagai berikut ini :   Hasil tes kehamilan ( Testpack ) positif. 
+278,278_4,"Payudara terlihat lebih sensitif, padat, dan lebih kencang. "
+278,278_5,Lebih sering Buang Air Kecil. 
+278,278_6,Merasa sangat lelah. 
+278,278_7,Mual dan muntah. 
+278,278_8,Hilangnya nafsu makan. 
+278,278_9,Konstipasi. 
+278,278_10,Suasana hati yang berubah. 
+278,278_11,Pusing. 
+278,278_12,Terlambat datang bulan   dan lain - lain. 
+278,278_13,"Untuk membedakannya apakah ini suatu gejala yang timbul akibat awal munculnya menstruasi ataukah suatu tanda kehamilan, maka kami sangat menyarankan kepada Anda untuk melakukan tes kehamilan ( testpack ) terlebih dahulu. "
+278,278_14,"Apabila hasil negatif, maka Anda dapat mengulanginya seminggu kemudian. "
+278,278_15,"Apabila Anda khawatir berlebih, konsultasikan hal ini dengan Dokter Spesialis Kebidanan dan Kandungan agar segala sesuatunya terang dan jelas. "
+278,278_16,Klik artikel di bawah ini yang sesuai dengan pertanyaan Anda : TANDA KEHAMILAN MENSTRUASI TEST PACK. 
+278,278_17,"Demikian penjelasan yang dapat kami sampaikan, semoga bermanfaat. "
+278,278_18,"Salam, Dr."
 279,279_0,Halo Shintia. 
 279,279_1,Apakah sebelumnya haid Anda selalu teratur? 
 279,279_2,"Jika sebelumnya haid Anda juga tidak teratur, maka jika Anda terlambat haid selama 4 bulan tetapi kehamilannya baru 5 minggu, hal tersebut bisa saja masih wajar atau dalam batas normal. "
